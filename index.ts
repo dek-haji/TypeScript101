@@ -148,3 +148,4 @@ console.log(nums?.[8]);
 //this is optional call operator
 let newNum: any = null;
 console.log(newNum?.('a'));
+////////////////////////////////////////////////////////////////
