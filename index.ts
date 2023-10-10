@@ -149,3 +149,4 @@ console.log(nums?.[8]);
 let newNum: any = null;
 console.log(newNum?.('a'));
 ////////////////////////////////////////////////////////////////
+//this is type guard with instanceof
