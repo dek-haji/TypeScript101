@@ -150,3 +150,10 @@ let newNum: any = null;
 console.log(newNum?.('a'));
 ////////////////////////////////////////////////////////////////
 //this is type guard with instanceof
+class Person {
+        name: string = "";
+        age: number = 0;
+}
+class Employees extends Person {
+        salary: number = 0;
+}
